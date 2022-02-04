@@ -1,0 +1,402 @@
+{
+    "admins": [
+        "100031810042802"
+    ],
+    "4258445860907644": {
+        "users": {
+            "100000526931629": {
+                "permissions": [
+                    "help",
+                    "info"
+                ]
+            },
+            "100001461949096": {
+                "permissions": [
+                    "help",
+                    "info"
+                ]
+            },
+            "100001828492696": {
+                "permissions": [
+                    "help",
+                    "info"
+                ]
+            },
+            "100002056204476": {
+                "permissions": [
+                    "help",
+                    "info"
+                ]
+            },
+            "100002498382392": {
+                "permissions": [
+                    "help",
+                    "info"
+                ]
+            },
+            "100003891826358": {
+                "permissions": [
+                    "help",
+                    "info"
+                ]
+            },
+            "100004176638718": {
+                "permissions": [
+                    "help",
+                    "info"
+                ]
+            },
+            "100004189565353": {
+                "permissions": [
+                    "help",
+                    "info"
+                ]
+            },
+            "100004944040636": {
+                "permissions": [
+                    "help",
+                    "info"
+                ]
+            },
+            "100006652332884": {
+                "permissions": [
+                    "help",
+                    "info"
+                ]
+            },
+            "100006709605711": {
+                "permissions": [
+                    "help",
+                    "info"
+                ]
+            },
+            "100007909449910": {
+                "permissions": [
+                    "help",
+                    "info"
+                ]
+            },
+            "100008224219441": {
+                "permissions": [
+                    "help",
+                    "info"
+                ]
+            },
+            "100008271586278": {
+                "permissions": [
+                    "help",
+                    "info"
+                ]
+            },
+            "100008631392520": {
+                "permissions": [
+                    "help",
+                    "info"
+                ]
+            },
+            "100009246443183": {
+                "permissions": [
+                    "help",
+                    "info"
+                ]
+            },
+            "100009575253727": {
+                "permissions": [
+                    "help",
+                    "info"
+                ]
+            },
+            "100009996607623": {
+                "permissions": [
+                    "help",
+                    "info"
+                ]
+            },
+            "100010183657157": {
+                "permissions": [
+                    "help",
+                    "info"
+                ]
+            },
+            "100010489062177": {
+                "permissions": [
+                    "help",
+                    "info"
+                ]
+            },
+            "100010538477844": {
+                "permissions": [
+                    "help",
+                    "info"
+                ]
+            },
+            "100011343529559": {
+                "permissions": [
+                    "help",
+                    "info"
+                ]
+            },
+            "100011558238843": {
+                "permissions": [
+                    "help",
+                    "info"
+                ]
+            },
+            "100011815652672": {
+                "permissions": [
+                    "help",
+                    "info"
+                ]
+            },
+            "100014837165295": {
+                "permissions": [
+                    "help",
+                    "info"
+                ]
+            },
+            "100021531132656": {
+                "permissions": [
+                    "help",
+                    "info"
+                ]
+            },
+            "100022161404472": {
+                "permissions": [
+                    "help",
+                    "info"
+                ]
+            },
+            "100023619381051": {
+                "permissions": [
+                    "help",
+                    "info"
+                ]
+            },
+            "100024351347079": {
+                "permissions": [
+                    "help",
+                    "info"
+                ]
+            },
+            "100024546439601": {
+                "permissions": [
+                    "help",
+                    "info"
+                ]
+            },
+            "100026964984369": {
+                "permissions": [
+                    "help",
+                    "info"
+                ]
+            },
+            "100027329410981": {
+                "permissions": [
+                    "help",
+                    "info"
+                ]
+            },
+            "100027449775538": {
+                "permissions": [
+                    "help",
+                    "info"
+                ]
+            },
+            "100029327196228": {
+                "permissions": [
+                    "help",
+                    "info"
+                ]
+            },
+            "100030690409508": {
+                "permissions": [
+                    "help",
+                    "info"
+                ]
+            },
+            "100031574674706": {
+                "permissions": [
+                    "help",
+                    "info"
+                ]
+            },
+            "100033507189550": {
+                "permissions": [
+                    "help",
+                    "info"
+                ]
+            },
+            "100037584291491": {
+                "permissions": [
+                    "help",
+                    "info"
+                ]
+            },
+            "100037673498563": {
+                "permissions": [
+                    "help",
+                    "info"
+                ]
+            },
+            "100038530356415": {
+                "permissions": [
+                    "help",
+                    "info"
+                ]
+            },
+            "100041804171907": {
+                "permissions": [
+                    "help",
+                    "info"
+                ]
+            },
+            "100044362560006": {
+                "permissions": [
+                    "help",
+                    "info"
+                ]
+            },
+            "100046012849974": {
+                "permissions": [
+                    "help",
+                    "info"
+                ]
+            },
+            "100046351269353": {
+                "permissions": [
+                    "help",
+                    "info"
+                ]
+            },
+            "100050299242187": {
+                "permissions": [
+                    "help",
+                    "info"
+                ]
+            },
+            "100052666938370": {
+                "permissions": [
+                    "help",
+                    "info"
+                ]
+            },
+            "100053726795603": {
+                "permissions": [
+                    "help",
+                    "info"
+                ]
+            },
+            "100054067209062": {
+                "permissions": [
+                    "help",
+                    "info"
+                ]
+            },
+            "100054225728998": {
+                "permissions": [
+                    "help",
+                    "info"
+                ]
+            },
+            "100055959736156": {
+                "permissions": [
+                    "help",
+                    "info"
+                ]
+            },
+            "100056442565207": {
+                "permissions": [
+                    "help",
+                    "info"
+                ]
+            },
+            "100056909383068": {
+                "permissions": [
+                    "help",
+                    "info"
+                ]
+            },
+            "100059127646616": {
+                "permissions": [
+                    "help",
+                    "info"
+                ]
+            },
+            "100061464221978": {
+                "permissions": [
+                    "help",
+                    "info"
+                ]
+            },
+            "100062508256848": {
+                "permissions": [
+                    "help",
+                    "info"
+                ]
+            },
+            "100063176375996": {
+                "permissions": [
+                    "help",
+                    "info"
+                ]
+            },
+            "100065084151905": {
+                "permissions": [
+                    "help",
+                    "info"
+                ]
+            },
+            "100068915176674": {
+                "permissions": [
+                    "help",
+                    "info"
+                ]
+            },
+            "100069136850085": {
+                "permissions": [
+                    "help",
+                    "info"
+                ]
+            },
+            "100069143749590": {
+                "permissions": [
+                    "help",
+                    "info"
+                ]
+            },
+            "100070432043153": {
+                "permissions": [
+                    "help",
+                    "info"
+                ]
+            },
+            "100070878915450": {
+                "permissions": [
+                    "help",
+                    "info"
+                ]
+            },
+            "100072149557252": {
+                "permissions": [
+                    "help",
+                    "info"
+                ]
+            },
+            "100077642405600": {
+                "permissions": [
+                    "help",
+                    "info"
+                ]
+            },
+            "100077699681015": {
+                "permissions": [
+                    "help",
+                    "info"
+                ]
+            }
+        }
+    },
+    "4699051006857054": {
+        "users": {}
+    }
+}
